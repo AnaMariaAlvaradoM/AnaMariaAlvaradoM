@@ -1,6 +1,6 @@
 # Hola, soy Ana Alvarado 👋
 
-**Desarrolladora Full Stack · Educadora · Diseñadora de currículos · IA**
+**Desarrolladora Full Stack · Educadora Tech · IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Alvarado-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ana-alvarado-instructora-full-stack/)
 
