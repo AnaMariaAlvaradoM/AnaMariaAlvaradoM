@@ -1,36 +1,63 @@
-# Hola, soy Ana Alvarado 👋
+# Ana Alvarado
 
-**Desarrolladora Full Stack · Educadora Tech · IA**
+Desarrolladora **Full Stack** y Educadora Tech.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Alvarado-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ana-alvarado-instructora-full-stack/)
+Trabajo construyendo aplicaciones web y enseñando desarrollo de software a personas que están empezando en tecnología. He enseñado tanto a adultos como a niños, desde fundamentos de programación hasta desarrollo web completo.
 
----
-
-### Sobre mí
-
-Desarrollo software y también enseño a otros a hacerlo. Me apasiona la inteligencia artificial y diseñar experiencias de aprendizaje que realmente funcionen — desde el código hasta el currículo.
-
-Actualmente trabajo como instructora en varias plataformas de educación tech, acompañando a nuevos desarrolladores en su camino.
+También participo como instructora en programas de formación en **inteligencia artificial y data science**, donde trabajo temas como modelos de IA, uso de APIs de modelos de lenguaje y fundamentos de visión por computador.
 
 ---
 
-### Stack tecnológico
+## Qué enseño
 
-`JavaScript` `TypeScript` `Python` `Java` `Spring Boot`  
-`React` `Node.js` `Express` `SQL`  
-`IA / OpenAI API / LangChain`
+En distintos cursos y programas de formación he enseñado:
+
+* programación desde cero
+* Python
+* JavaScript
+* desarrollo web full stack
+* Git y control de versiones
+* bases de datos SQL
+* APIs y backend
+* fundamentos de inteligencia artificial
+* visión por computador
+
+También diseño material educativo, ejercicios y proyectos para que los estudiantes aprendan construyendo cosas reales.
 
 ---
 
-### Lo que hago
+## Tecnologías con las que trabajo
 
-- 💻 Desarrollo aplicaciones web full stack
-- 🧑‍🏫 Enseño programación desde cero y a nivel avanzado
-- 📐 Diseño currículos y experiencias de aprendizaje para tech
-- 🤖 Integro inteligencia artificial en proyectos reales
+Backend
+Python · Node.js · Express · Java · Spring Boot
+
+Frontend
+JavaScript · TypeScript · React
+
+Datos e IA
+SQL · OpenAI API · LangChain · fundamentos de machine learning
+
+Herramientas
+Git · GitHub · APIs REST
 
 ---
 
-<div align="center">
-<sub>construyendo · enseñando · iterando</sub>
-</div>
+## En qué estoy enfocada ahora
+
+* integración de modelos de IA en aplicaciones
+* enseñanza de programación basada en proyectos
+* construcción de herramientas educativas para desarrolladores
+
+---
+
+## Algunas cosas que me interesan
+
+* cómo enseñar programación de forma efectiva
+* inteligencia artificial aplicada a productos reales
+* arquitectura de software
+* aprendizaje técnico a largo plazo
+
+---
+
+LinkedIn
+https://www.linkedin.com/in/ana-alvarado-instructora-full-stack
